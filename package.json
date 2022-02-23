@@ -1,0 +1,23 @@
+{
+  "name": "substrb",
+  "version": "0.0.1",
+  "description": "intercept string by byte",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WNLee/substrb.git"
+  },
+  "keywords": [
+    "substrb"
+  ],
+  "author": "geeklee2020@gmail.com",
+  "license": "MIT",
+  "typings": "substrb.d.ts",
+  "bugs": {
+    "url": "https://github.com/WNLee/substrb/issues"
+  },
+  "homepage": "https://github.com/WNLee/substrb#readme"
+}
